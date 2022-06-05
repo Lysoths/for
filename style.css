@@ -1,0 +1,18 @@
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:black;
+}
+
+
+
+div {
+    background-color:white;
+    width:50px;
+    height: 50px;
+    margin:10px;
+    transition:all .3s;
+    border-radius:50px;    
+}
